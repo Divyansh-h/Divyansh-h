@@ -1,119 +1,18 @@
-<div align="center">
+# 💫 About Me:
+I'm a Full Stack Developer from India who enjoys building modern, scalable software with a strong focus on backend engineering.<br><br>- 🚀 Building production-ready applications using **Java, Spring Boot, React & Node.js**<br>- 🌱 Currently diving deeper into **Microservices, System Design, Docker, Kubernetes & Cloud**<br>- 🧠 Strong interest in **Backend Engineering, APIs, Performance Optimization & Clean Architecture**<br>- 🤝 Always open to collaborating on impactful open-source projects<br>- 💬 Ask me about **Java, Spring Boot, React, REST APIs, SQL, MongoDB, Git and DSA**<br>- ⚡ I believe great software is built with clean code, thoughtful design and continuous learning
 
-# Divyansh-h
 
-**Backend Engineer | System Design Enthusiast | Clean Code Advocate**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/diivyansh.hh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/divyansh-chouhan-b41a89277/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhdivyansh885@gmail.com) 
 
-<br>
-
-<p style="max-width: 600px; margin: 0 auto; font-size: 16px;">
-  Full-stack engineer crafting scalable backend architectures and intuitive frontend experiences. Driven by clean code principles and a passion for building robust, high-performance systems from the ground up.
-</p>
-
-<br>
-
-<a href="https://linkedin.com/in/Divyansh-h"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=ffffff&labelColor=0D1117&color=0D1117" alt="LinkedIn" /></a>
-<a href="https://github.com/Divyansh-h"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=ffffff&labelColor=0D1117&color=0D1117" alt="GitHub" /></a>
-<a href="mailto:chouhandivyansh456@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=ffffff&labelColor=0D1117&color=0D1117" alt="Email" /></a>
-
-</div>
-
-<br><br>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Divyansh-h&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Divyansh-h&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Divyansh-h&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Divyansh-h&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br>
-
-<div align="center">
-  <h2>Architecture & Tech Stack</h2>
-</div>
-
-```mermaid
-flowchart TD
-    classDef layer fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9,rx:0,ry:0
-    
-    FE["Frontend Layer<br>React • Next.js"]:::layer
-    BE["Backend Layer<br>Spring Boot • Node.js • Express"]:::layer
-    DATA["Data Layer<br>PostgreSQL • MongoDB • Redis"]:::layer
-    INFRA["Infrastructure<br>Docker • Kubernetes • AWS / GCP"]:::layer
-
-    FE --> BE
-    BE --> DATA
-    BE --> INFRA
-    
-    linkStyle default stroke:#8b949e,stroke-width:1px,fill:none;
-```
-
-<br>
-
-<div align="center">
-
-#### Languages
-<img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ffffff&labelColor=0D1117&color=0D1117" alt="Java" />
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=ffffff&labelColor=0D1117&color=0D1117" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=0D1117&color=0D1117" alt="TypeScript" />
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=ffffff&labelColor=0D1117&color=0D1117" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=ffffff&labelColor=0D1117&color=0D1117" alt="CSS3" />
-
-<br>
-
-#### Frameworks
-<img src="https://img.shields.io/badge/Spring_Boot-0D1117?style=flat-square&logo=springboot&logoColor=ffffff&labelColor=0D1117&color=0D1117" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=ffffff&labelColor=0D1117&color=0D1117" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=ffffff&labelColor=0D1117&color=0D1117" alt="Next.js" />
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=ffffff&labelColor=0D1117&color=0D1117" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-0D1117?style=flat-square&logo=express&logoColor=ffffff&labelColor=0D1117&color=0D1117" alt="Express.js" />
-
-<br>
-
-#### Databases
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=ffffff&labelColor=0D1117&color=0D1117" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=ffffff&labelColor=0D1117&color=0D1117" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=ffffff&labelColor=0D1117&color=0D1117" alt="Redis" />
-
-<br>
-
-#### DevOps
-<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=ffffff&labelColor=0D1117&color=0D1117" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=ffffff&labelColor=0D1117&color=0D1117" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonaws&logoColor=ffffff&labelColor=0D1117&color=0D1117" alt="AWS" />
-<img src="https://img.shields.io/badge/GCP-0D1117?style=flat-square&logo=googlecloud&logoColor=ffffff&labelColor=0D1117&color=0D1117" alt="GCP" />
-<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=ffffff&labelColor=0D1117&color=0D1117" alt="Git" />
-
-</div>
-
-<br><br>
-
----
-
-<br>
-
-<div align="center">
-  <h2>Activity</h2>
-</div>
-
-<br>
-
-<div align="center">
-  <!-- Monochrome Stats and Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Divyansh-h&show_icons=true&hide_border=false&border_radius=0&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh-h&layout=compact&hide_border=false&border_radius=0&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d" alt="Top Languages" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <!-- Monochrome Snake Grid -->
-  <!-- Ensure you configure the Action with `color_snake=#ffffff` -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Divyansh-h/Divyansh-h/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divyansh-h/Divyansh-h/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/Divyansh-h/Divyansh-h/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake" width="100%" />
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Divyansh-h&color=30363d&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
